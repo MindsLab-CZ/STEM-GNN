@@ -1,3 +1,16 @@
+<!-- MINDSLAB-PAPER-METADATA:START -->
+# STEM-GNN
+
+**Paper:** Generalizing GNNs with Tokenized Mixture of Experts
+
+**Authors:** Xiaoguang Guo, Zehong Wang, Jiazheng Li, Shawn Spitzel, Qi Yang, Kaize Ding, Jundong Li, Chuxu Zhang
+
+**Paper link:** [2602.09258](https://arxiv.org/abs/2602.09258)
+
+<!-- MINDSLAB-PAPER-METADATA:END -->
+
+---
+
 # STEM-GNN
 
 This repository contains pretraining and finetuning scripts for STEM-GNN, plus multiple evaluation scripts.
